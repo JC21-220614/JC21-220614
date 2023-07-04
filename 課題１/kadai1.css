@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+html{
+    background-color: #ff6;
+    padding: 30px;
+}
+
+header{
+    background-color: #fff;
+    padding: 1.5px;
+}
+
+h1{
+    font-size: 30px;
+    color: #990;
+}
+
+main{
+    background-color: #fff;
+    padding: 20px;
+}
+
+h2{
+    font-size: 20px;
+    color: #6666ff;
+}
+
+p{
+    font-size: 10px;
+    color: #000;
+}
+
+footer{
+    font-size: 10px;
+}
