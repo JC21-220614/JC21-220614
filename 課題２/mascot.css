@@ -71,8 +71,10 @@ a{
     header h1 {
         font-size: 12vw;
     }
-    .description h1{
-        font-size: 10vw;
+
+    .mascot{
+        margin: 0;
+        padding: 0;
     }
 
     .container {
